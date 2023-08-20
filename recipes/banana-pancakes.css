@@ -1,0 +1,25 @@
+h1{
+    background-color: hsla(50, 100%, 50%, 0.3);
+    font-size: 50px;
+    font-family: "times new roman", serif;
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: auto;
+}
+
+.subheading {
+    text-align: center;
+    font-family: "times new roman", serif;
+    font-size: 40px;
+}
+
+.center-align{
+    text-align: center;
+}
+
+#font-size{
+    font-size: 17px;
+}

@@ -1,0 +1,17 @@
+h1 {
+    background-color: hsla(50, 100%, 55%, 0.702);
+    font-family: "times new roman", sans-serif;
+    color: black;
+    font-size: 60px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.list {
+    font-size: 40px;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
